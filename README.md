@@ -402,7 +402,7 @@ The long-term vision is to provide a configurable environment where AI agents ca
 Robotics & Artificial Intelligence
 Bangalore Institute of Technology
 
-[LinkedIn](https://www.linkedin.com/in/havyas-m-p)
+[LinkedIn](https://www.linkedin.com/in/havyas-m-p-946719295)
 
 [Email](mailto:havyashavi007@gmail.com)
 
